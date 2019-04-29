@@ -70,6 +70,11 @@ defaults:
       nav_exclude: false
       parent: Contribute
   - scope:
+      path: "sqlflow/example/datasets/README.md"
+    values:
+      nav_exclude: false
+      parent: Contribute
+  - scope:
       path: "sqlflow/doc/close_producer_from_consumer.md"
     values:
       nav_exclude: false
